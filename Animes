@@ -10,6 +10,16 @@
 
 <channels>
 <channel>
+<name>Death Note</name>
+<thumbnail>https://cdn.culturagenial.com/imagens/death-note-cartaz.jpg</thumbnail>
+<fanart>https://i0.wp.com/www.jornalopcao.com.br/wp-content/uploads/2017/08/death-note-2-620x350.jpg?resize=620%2C350</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/animes/main/Death%20note</externallink>
+<info>Um estudante de repente encontra um caderno que caiu do céu. Trata-se do Death Note, que permite ao seu portador matar qualquer pessoa a partir da mera anotação do nome do alvo em uma de suas páginas. Sob a influência de Ruyk, dono do caderno, ele passa a usá-lo para eliminar criminosos e pessoas que escaparam da justiça. A súbita onda de assassinatos faz com que ele seja endeusado por muitos, que o apelidam de Kira, mas também atrai a atenção de um enigmático e brilhante detetive, chamado L.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Naruto</name>
 <thumbnail>https://img1.ak.crunchyroll.com/i/spire4/5568ffb263f6bcba85a639980b80dd9a1612993223_full.jpg</thumbnail>
 <fanart>https://devaneionerdhome.files.wordpress.com/2018/12/Naruto-Cl%C3%A1ssico.jpg?w=1024</fanart>
@@ -21,7 +31,7 @@
 <channels>
 <channel>
 <name> [ L ] Naruto Shippuden</name>
-<thumbnail>https://static.wikia.nocookie.net/dublagem/images/f/fd/Naruto_Shippuden_Capa.jpg/revision/latest?cb=20210516011121&path-prefix=pt-br</thumbnail>
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p7842736_b_v9_ab.jpg?w=960&h=1440</thumbnail>
 <fanart>https://dg31sz3gwrwan.cloudfront.net/fanart/79824/970356-0-q80.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/animes/main/Naruto%20Shippuden</externallink>
 <info>Naruto Shippuden é a continuação da primeira parte do mangá Naruto, e continua a mesma linha da história após a passagem de dois anos e meio no universo Naruto.</info>
