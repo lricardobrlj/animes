@@ -47,3 +47,13 @@
 <info>Naruto Shippuden é a continuação da primeira parte do mangá Naruto, e continua a mesma linha da história após a passagem de dois anos e meio no universo Naruto.</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name> One Punch Man</name>
+<thumbnail>https://static.wikia.nocookie.net/onepunchman/images/c/c9/One_Punch_Man_TV_Anime_Key_Visual.jpg/revision/latest?cb=20150311173301</thumbnail>
+<fanart>https://www.planocritico.com/wp-content/uploads/2016/01/119-One-Punch-Man.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/animes/main/One%20Punch%20Man</externallink>
+<info>Tudo sobre um jovem chamado Saitama parece mediano, sua expressão sem vida, sua cabeça calva e físico inexpressivo. No entanto, este homem de aparência comum não tem um problema comum… Ele é um super-herói que está à procura de adversários difíceis! O problema é que toda vez que ele encontra um candidato promissor ele o derrota com um soco. Saitama encontrará um vilão forte o suficiente para desafiá-lo? Siga Saitama através de suas aventuras hilariantes enquanto ele procura por novos bandidos para desafiar!</info>
+</channel>
+</channels>
